@@ -1,0 +1,8 @@
+D:\july13A5\july13A5\bin\Debug\july13A5.exe.config
+D:\july13A5\july13A5\bin\Debug\july13A5.exe
+D:\july13A5\july13A5\bin\Debug\july13A5.pdb
+D:\july13A5\july13A5\obj\Debug\july13A5.csproj.AssemblyReference.cache
+D:\july13A5\july13A5\obj\Debug\july13A5.csproj.SuggestedBindingRedirects.cache
+D:\july13A5\july13A5\obj\Debug\july13A5.csproj.CoreCompileInputs.cache
+D:\july13A5\july13A5\obj\Debug\july13A5.exe
+D:\july13A5\july13A5\obj\Debug\july13A5.pdb
